@@ -1,9 +1,9 @@
-#indlude "main.h"
+#include "main.h"
 
 /**
- *main - print_putchar
- *is written ny mbah
- *Return: 0
+ * main - Entry point of my code,
+ *
+ *Return: Always 0
  */
 
 int main(void)
